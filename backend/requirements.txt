@@ -1,0 +1,10 @@
+Flask
+flask-cors
+python-dotenv
+requests
+langchain
+langchain-openai
+langchain-experimental
+langchain-community
+openai
+dateparser
